@@ -1,0 +1,9 @@
+name: spellchecker
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.8
+  - pip:
+    - -r requirements.txt

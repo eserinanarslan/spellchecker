@@ -1,0 +1,3 @@
+Size of the testing dataset = 3239
+Ratio of the dataset where the expected correction was found in top-5 prediction = 0.9978388391478852
+Ratio of the dataset where the expected correction was found in First position = 0.9651126891015746
